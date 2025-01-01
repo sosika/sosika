@@ -12,7 +12,7 @@
   
 📫 Connect with me at www.linkedin.com/in/saijaiosika
   
-📄 Here is my resume. 
+📄 [Here is my resume](Saijai_Osika_Resume.pdf). 
 <!---
 sosika/sosika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
